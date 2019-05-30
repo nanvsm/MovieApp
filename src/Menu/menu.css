@@ -1,0 +1,20 @@
+.navmenu {
+    background-color: #333545!important;
+    color: #fff;
+}
+
+.navbar-default .navbar-brand, .navbar-default .navbar-nav>li>a {
+    color: #fff; 
+}
+.top, .top:hover   {
+    font-weight: 500;
+    margin-top: 8px;
+    background-color: #0078ff;
+    border: 1px solid transparent;
+    color: #fff;
+}
+
+.navbar-default .navbar-brand:hover, .navbar-default .navbar-brand:focus, 
+.navbar-default .navbar-nav>li>a:hover, .navbar-default .navbar-nav>li>a:focus {
+    color: #fff; 
+}

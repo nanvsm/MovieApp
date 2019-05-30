@@ -1,0 +1,38 @@
+
+.form_grid {
+    position: absolute;
+top: 50%;
+left: 50%;
+transform: translate(-50%, -50%);
+box-shadow: 0px 1px 13px #eee;
+padding: 10px;
+}
+
+.details_title {
+    font-size: 1.7em;
+    margin-bottom: 18px;
+    font-weight: 500;
+}
+
+
+.t-pad-left {
+    margin-left:10px;
+}
+p {
+    margin: 0 0 18px;
+}
+.slider {
+    text-align: center;
+}
+
+.movieview {
+    margin-bottom: 20px;
+}
+.sl-range {
+    font-size: 1.2em;
+    box-shadow: 1px 1px 2px #afadad;
+    color: #fff;
+    background-color: #0078ff;
+    padding: 4px 10px;
+    border-radius: 50%;
+}

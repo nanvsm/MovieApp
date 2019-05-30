@@ -1,0 +1,33 @@
+
+.card {
+    border: 1px solid #ddd;
+    margin-bottom: 30px;
+    text-align: center;
+    padding: 20px 0px;
+
+}
+.card-img-top {
+height: 300px;
+}
+
+.grid {
+    margin-top:20px;
+}
+.card-title {
+    font-size: 1.1em;
+}
+
+.gridview {
+    display: flex;
+    flex-wrap: wrap;
+}
+/* .title {
+    font-size:1.2em;
+    font-weight:500;
+    padding: 10px 0px;
+}
+
+.search {
+    width: 100%;
+    padding: 20px;
+} */

@@ -28,8 +28,8 @@ class Menu extends Component {
           </div>
           <div className="collapse navbar-collapse" id="navbar-collapse-2">
             <ul className="nav navbar-nav navbar-left">
-              <li><a href="/dashboard">Dashboard </a></li>
-              <li><a href="/explore">Explore</a></li>
+              <li><a href="/dashboard"><i class="fa fa-floppy-o t-pad" aria-hidden="true"></i>Dashboard </a></li>
+              <li><a href="/explore"><i class="fa fa-list t-pad" aria-hidden="true"></i>Explore</a></li>
             </ul>
             <ul className="nav navbar-nav navbar-right">
               <li>
